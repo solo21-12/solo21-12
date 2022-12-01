@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @solo21-12
+- 👋 Hi, I’m Dawit Abarahm
 - 👀 I’m interested in Al and Web development
-- 🌱 I’m currently learning a MERN stack
+- 🌱 I’m junior a MERN stack developer
 - 💞️ I’m looking to collaborate on Website development
 - 📫 How to reach me dawitabrham0021@gmail.com
 
