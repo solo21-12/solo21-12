@@ -16,7 +16,9 @@
 </div>
 <p>Developer/Forums</p>
 <div style="display: flex;">
+ <a href="https://leetcode.com/DawitSolo/">
 <img alt="" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+</a>
 <img alt="" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 <img alt="" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </div>
