@@ -2,6 +2,9 @@
 <h4> Junior Web Developer (MERN Stack) </h4>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=solo21-12&show_icons=true&theme=radical" width="50%" />
 <div >
+ <a href="https://portifolio-solo21-12.vercel.app">
+<img alt="" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+</a>
 <p>Databases</p>
 <div style="display: flex;">
 <img alt="" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
