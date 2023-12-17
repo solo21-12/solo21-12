@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on Sass<br>I'm looking to collaborate on a distributed system <br>I'm looking to help develop better software<br>I'm currently learning .net, Microservice<br>I'm interested In ML
+🔭 I’m currently working on Sass<br>
+👯 I’m looking to collaborate on a distributed system<br>
+🤝 I’m looking for help with develop better softwar<br>
+🌱 I’m currently learning .net, Microservice<br>
+⚡  I'm interested In ML
 
 
 ## 🌐 Socials:
