@@ -30,7 +30,6 @@ I'm a **Software Engineer** and a **Certified AWS Cloud Practitioner** with a de
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📜 Certifications
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/cc6edc0b-91d1-42c6-9d8e-0dc2d6a4b89e)
